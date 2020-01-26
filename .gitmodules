@@ -1,0 +1,3 @@
+[submodule "politricker"]
+	path = politricker
+	url = https://github.com/distid/politricker
